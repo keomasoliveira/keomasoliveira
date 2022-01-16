@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @keomasoliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Seja Bem Vindo(a) ao meu Perfil, Meu nome é Keomas Oliveira.
 
-<!---
-keomasoliveira/keomasoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-✨ Apaixonado por programação .
+
+-✔️ Estudando TypeScrypt / Angular / HTML / CSS ( Front End ).
+
+-🖥️ Estudando C# / EntityFrameworkCore ( Back End ).
+
+-🤓 Atuo também com SQL Server e SQLite.
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keomasoliveira)](https://github.com/anuraghazra/github-readme-stats)
