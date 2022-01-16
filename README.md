@@ -2,7 +2,7 @@
 
 
 
-                                               -✨ Apaixonado por programação .
+                                                 -✨ Apaixonado por programação .
 
                                  -✔️ Estudando TypeScrypt / Angular / HTML / CSS ( Front End ).
 
