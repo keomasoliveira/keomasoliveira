@@ -8,4 +8,5 @@ Seja Bem Vindo(a) ao meu Perfil, Meu nome é Keomas Oliveira.
 
 -🤓 Atuo também com SQL Server e SQLite.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keomasoliveira)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keomasoliveira&count_private=true&theme=dracula&showicons=true)]()
