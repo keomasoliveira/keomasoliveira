@@ -1,41 +1,74 @@
-## Seja Bem Vindo(a) ao meu Perfil, Meu nome é Keomas Oliveira.
+# Bem-vindo ao meu perfil!
 
+## Olá, sou Keomas Oliveira
 
+Sou um desenvolvedor full stack com forte experiência em tecnologias modernas e uma paixão por criar soluções eficientes. Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos que impactam positivamente os usuários.
 
-                                                 -✨ Apaixonado por programação .
+### Formação e Aprendizado
 
-                                 -✔️ Estudando TypeScrypt / Angular / HTML / CSS ( Front End ).
-
-                                        -🖥️ Estudando C# / EntityFrameworkCore ( Back End ).
-
-                                              -🤓 Atuo também com SQL Server e SQLite.
- <br>
- <div style="display: inline_block" align="center"<br>
-  <a href = "mailto:keomasfelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/keomasponto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <div style="width: 45%;">
+    <h4>Front End</h4>
+    <ul>
+      <li>TypeScript</li>
+      <li>Angular</li>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>React</li>
+    </ul>
   </div>
- 
-##
-
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keomasoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img class = "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keomasoliveira&layout=compact&langs_count=7&theme=dark"/>
- </a>
- </div>
-
- 
- ##
- 
- <div style="display: inline_block" align="center"<br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">  
+  <div style="width: 45%;">
+    <h4>Back End</h4>
+    <ul>
+      <li>C#</li>
+      <li>Entity Framework Core</li>
+      <li>ASP.NET</li>
+      <li>SQL Server</li>
+      <li>SQLite</li>
+    </ul>
+  </div>
 </div>
 
+### Experiência em Desenvolvimento
+
+- **Full Stack Developer** (Meio Período)
+  - **Getway Automação Comercial**
+    - Desenvolvi e mantive sistemas utilizando Angular e .NET, resultando em uma redução de 30% no tempo de desenvolvimento.
+    - Participei ativamente de migrações para novas plataformas, garantindo uma transição suave e eficiente para os usuários.
+    - Implementei práticas de testes automatizados, melhorando a qualidade do código e reduzindo bugs em produção.
+
+- **Projetos Pessoais**
+  - **GwGate**: Criação de um gerenciador de PDV, com foco na atualização eficiente e na experiência do usuário.
+  - **DigiHunting**: Desenvolvimento de uma plataforma para conectar recrutadores a profissionais de TI, utilizando tecnologias como Angular e .NET.
+
+### Contato
+
+Você pode me encontrar nas seguintes plataformas:
+
+<div style="display: inline_block" align="center">
+  <a href="mailto:keomasfelipe@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/keomasponto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keomasoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keomasoliveira&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+### Gráfico de Atividades
+
+<div align="center">
+  <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=keomasoliveira&theme=react-dark" alt="Gráfico de Atividades"/>
+</div>
+
+## Vamos Conectar!
+
+Estou sempre aberto a colaborações e troca de conhecimentos. Sinta-se à vontade para entrar em contato!
