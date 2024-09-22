@@ -6,36 +6,19 @@ Sou um desenvolvedor full stack com forte experiência em tecnologias modernas e
 
 ### Formação e Aprendizado
 
-<div style="display: flex; justify-content: space-between; margin: 20px 0;">
-  <div style="width: 45%;">
-    <h4>Front End</h4>
-    <ul>
-      <li>TypeScript</li>
-      <li>Angular</li>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>React</li>
-    </ul>
-  </div>
-  <div style="width: 45%;">
-    <h4>Back End</h4>
-    <ul>
-      <li>C#</li>
-      <li>Entity Framework Core</li>
-      <li>ASP.NET</li>
-      <li>SQL Server</li>
-      <li>SQLite</li>
-    </ul>
-  </div>
-</div>
-
+| **Front End**          | **Back End**            |
+|------------------------|-------------------------|
+| TypeScript             | C#                      |
+| Angular                | Entity Framework Core   |
+| HTML5                  | ASP.NET                 |
+| CSS3                   | SQL Server              |
+| React                  | SQLite                  |
 
 ### Contato
 
 Você pode me encontrar nas seguintes plataformas:
 
 <div style="display: inline_block" align="center">
-
   <a href="https://www.linkedin.com/in/keomasponto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
