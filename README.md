@@ -6,15 +6,15 @@ Sou um desenvolvedor full stack com forte experiência em tecnologias modernas e
 
 ### Formação e Aprendizado
 
-<p align="center">
-| **Front End**          | **Back End**            |
-|------------------------|-------------------------|
-| TypeScript             | C#                      |
-| Angular                | Entity Framework Core   |
-| HTML5                  | ASP.NET                 |
-| CSS3                   | SQL Server              |
-| React                  | SQLite                  |
-</p>
+
+                                                                              | **Front End**          | **Back End**            |
+                                                                              |------------------------|-------------------------|
+                                                                              | TypeScript             | C#                      |
+                                                                              | Angular                | Entity Framework Core   |
+                                                                              | HTML5                  | ASP.NET                 |
+                                                                              | CSS3                   | SQL Server              |
+                                                                              | React                  | SQLite                  |
+
 
 ### Contato
 
