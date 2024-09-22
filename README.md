@@ -38,7 +38,7 @@ Você pode me encontrar nas seguintes plataformas:
 ### Gráfico de Atividades
 
 <p align="center">
-  <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=keomasoliveira&theme=react-dark" alt="Gráfico de Atividades"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=keomasoliveira&theme=react-dark" alt="Gráfico de Atividades"/>
 </p>
 
 ## Vamos Conectar!
