@@ -29,26 +29,13 @@ Sou um desenvolvedor full stack com forte experiência em tecnologias modernas e
   </div>
 </div>
 
-### Experiência em Desenvolvimento
-
-- **Full Stack Developer** (Meio Período)
-  - **Getway Automação Comercial**
-    - Desenvolvi e mantive sistemas utilizando Angular e .NET, resultando em uma redução de 30% no tempo de desenvolvimento.
-    - Participei ativamente de migrações para novas plataformas, garantindo uma transição suave e eficiente para os usuários.
-    - Implementei práticas de testes automatizados, melhorando a qualidade do código e reduzindo bugs em produção.
-
-- **Projetos Pessoais**
-  - **GwGate**: Criação de um gerenciador de PDV, com foco na atualização eficiente e na experiência do usuário.
-  - **DigiHunting**: Desenvolvimento de uma plataforma para conectar recrutadores a profissionais de TI, utilizando tecnologias como Angular e .NET.
 
 ### Contato
 
 Você pode me encontrar nas seguintes plataformas:
 
 <div style="display: inline_block" align="center">
-  <a href="mailto:keomasfelipe@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-  </a>
+
   <a href="https://www.linkedin.com/in/keomasponto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
